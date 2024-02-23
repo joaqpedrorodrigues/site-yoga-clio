@@ -22,6 +22,8 @@ window.addEventListener('DOMContentLoaded', event => {
         }
 
     };
+
+    // Yoga dropwdowns
     var coll = document.getElementsByClassName("collapsible");
     var i;
 
